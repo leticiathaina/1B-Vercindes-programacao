@@ -12,3 +12,15 @@ p{
     color: black;
     font-size: 25px;
 }
+
+#imagem1{
+    width: 90%;
+    height: 15%;
+    border: 2px solid black;
+}
+
+.itens{
+    font-style: italic;
+    font-size: 50px;
+    text-align: left;
+}
